@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeUser", "ShapeUser\ShapeUser.csproj", "{5D78E3E1-AED5-4146-B358-05A3915B79ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D78E3E1-AED5-4146-B358-05A3915B79ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D78E3E1-AED5-4146-B358-05A3915B79ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D78E3E1-AED5-4146-B358-05A3915B79ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D78E3E1-AED5-4146-B358-05A3915B79ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60C98573-DA9C-4E6B-8D3A-BEA7FE474965}
+	EndGlobalSection
+EndGlobal
